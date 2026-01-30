@@ -54,3 +54,9 @@ Quick Start
     Run the calculator:
 
     java CommandLineDemo 5 + 3
+
+    Use "*" or \* to multiply 
+    
+    java CommandLineDemo 5 "*" 3
+
+    java CommandLineDemo 5 \* 3
